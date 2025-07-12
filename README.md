@@ -4,4 +4,5 @@ Pipeline :
     Data Understanding -> Data Cleaning -> Data Transformation and Feature Engineering -> Exploratory Visualizations with insights 
 
 Insights Generation from the EDA of the given data set :
-1.
+1. Inference : Clearly Vendor 2 is preferred by the taxi's consumers at nyc.
+2. 
